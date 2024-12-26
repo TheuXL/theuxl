@@ -36,18 +36,6 @@ Seja bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor full-stack apaixona
     -   **Funcionalidades:**
         -   Captura de comandos de voz para mensagens e interações com outros aplicativos (WhatsApp, Instagram, etc.).
         -   Integração com backend em Node.js e modelos de Machine Learning em Python.
-3.  **Software de Emissão de Notas Fiscais Offline**
-    -   **Descrição:** Desenvolvimento de um sistema em Angular e Java para emissão de notas fiscais que opera offline. Ideal para pequenas e médias empresas que precisam emitir notas mesmo sem conexão à internet.
-    -   **Tecnologias:** Angular, Java, Spring Boot, IndexedDB.
-    -   **Destaques Técnicos:**
-        -   Arquitetura "offline-first" para máxima disponibilidade.
-        -   Camada de segurança e autenticação.
-        -   Processos de sincronização automatizados.
-    -   **Funcionalidades:**
-        -   Implementação de uma arquitetura offline-first com IndexedDB.
-        -   Interface amigável e responsiva em Angular.
-        -   Integração com backend em Java e Spring Boot.
-        -   Validações de dados e tratamento de erros robustos.
 
 **🛠️ Habilidades Técnicas:**
 
