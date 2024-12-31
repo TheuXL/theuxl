@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Santos/TheuDev 👋
 
-## SOFTWARE ENGINEER | IA | JAVA | JAVASCRIPT | NODE.JS | PYTHON | FLUTTER | REACT | AWS | Desenvolvedor Full-Stack | Especialista em Soluções Escaláveis e Arquitetura de Microserviços
+## SOFTWARE ENGINEER | LLM | JAVA | JAVASCRIPT | NODE.JS | PYTHON | FLUTTER | REACT | AWS | Desenvolvedor Full-Stack | Especialista em Soluções Escaláveis e Arquitetura de Microserviços
 
 Seja bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e escaláveis. Minha experiência abrange desde o desenvolvimento de aplicativos mobile e web até a implementação de arquiteturas de microserviços e inteligência artificial.
 
