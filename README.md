@@ -26,7 +26,7 @@
 <!-- ========= RESUMO PROFISSIONAL ========= -->
 ### 👨‍💻 Resumo Profissional
 
-> Sou um **Engenheiro de Software Full-Stack** e **Especialista em Inteligência Artificial**, versátil e com uma paixão especial por soluções inteligentes baseadas em IA e arquiteturas escaláveis. Com forte capacidade de adaptação e pensamento inovador, transformo desafios técnicos complexos em soluções eficientes e intuitivas. Busco oportunidades para liderar o desenvolvimento de soluções que utilizem o poder da IA e arquiteturas distribuídas para resolver problemas reais com impacto significativo.
+> Sou um **Engenheiro de Software Full-Stack** e **Especialista em Inteligência Artificial**, versátil e com uma paixão especial por soluções inteligentes baseadas em IA e arquiteturas escaláveis. Com forte capacidade de adaptação e pensamento inovador, transformo desafios técnicos complexos em soluções eficientes e intuitivas. Busco oportunidades para desenvolvimento de soluções que utilizem o poder da IA e arquiteturas distribuídas para resolver problemas reais com impacto significativo.
 
 <!-- ========= BLOG EM DESTAQUE ========= -->
 ### ✍️ Post em Destaque no Blog
@@ -57,7 +57,7 @@
   <summary><strong>Clique para ver alguns projetos...</strong></summary>
   <br>
   <ul>
-    <li><strong>💳 <a href="https://kingpaybr.com.br/" target="_blank">KingPay – Plataforma de Pagamentos com IA</a>:</strong> Sistema financeiro serverless com +20 gateways e redução de 90% em fraudes.</li>
+    <li><strong>💳 <a href="https://kingpaybr.com.br/" target="_blank">KingPay – Plataforma de Pagamentos com IA</a>
     <li><strong>🌳 <a href="https://youxgroup.com.br/" target="_blank">Inã – Sistema de Gestão Ambiental</a>:</strong> Backend para aplicação do Governo de Goiás, com redução de 40% no tempo de resposta dos agentes.</li>
     <li><strong>🎬 Hello Clips – Geração de Vídeos Virais com IA:</strong> Plataforma que analisa e gera clipes virais a partir de vídeos longos usando LLMs e OpenCV.</li>
     <li><strong>📈 Feedback Analyzer – Análise Preditiva de Vendas com IA:</strong> Sistema que transforma feedbacks em insights e aumentou vendas em 55%.</li>
