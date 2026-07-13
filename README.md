@@ -13,7 +13,7 @@
 
 <!-- ========= CALL TO ACTION - PORTFÓLIO ========= -->
 <div align="center" style="margin-top: 20px;">
-  <a href="https://theuxdev.vercel.app/" target="_blank">
+  <a href="https://theuxdev.pro" target="_blank">
     <img src="https://img.shields.io/badge/acesse_meu_portfólio_completo-000?style=for-the-badge&logo=vercel&logoColor=31c754" alt="Acesse meu Portfólio Completo">
   </a>
 </div>
